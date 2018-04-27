@@ -1,0 +1,7 @@
+F:\Database Project\Baby Choice\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+F:\Database Project\Baby Choice\Test\bin\Debug\Test.dll
+F:\Database Project\Baby Choice\Test\bin\Debug\Test.pdb
+F:\Database Project\Baby Choice\Test\bin\Debug\Baby Choice.exe
+F:\Database Project\Baby Choice\Test\bin\Debug\Baby Choice.pdb
+F:\Database Project\Baby Choice\Test\obj\Debug\Test.dll
+F:\Database Project\Baby Choice\Test\obj\Debug\Test.pdb

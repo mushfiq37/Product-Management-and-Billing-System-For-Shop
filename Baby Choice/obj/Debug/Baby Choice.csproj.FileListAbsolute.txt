@@ -1,0 +1,17 @@
+F:\Database Project\Baby Choice\Baby Choice\bin\Debug\Baby Choice.exe.config
+F:\Database Project\Baby Choice\Baby Choice\bin\Debug\Baby Choice.exe
+F:\Database Project\Baby Choice\Baby Choice\bin\Debug\Baby Choice.pdb
+F:\Database Project\Baby Choice\Baby Choice\obj\Debug\Baby Choice.csprojResolveAssemblyReference.cache
+F:\Database Project\Baby Choice\Baby Choice\obj\Debug\Baby_Choice.Login.resources
+F:\Database Project\Baby Choice\Baby Choice\obj\Debug\Baby_Choice.Properties.Resources.resources
+F:\Database Project\Baby Choice\Baby Choice\obj\Debug\Baby Choice.csproj.GenerateResource.Cache
+F:\Database Project\Baby Choice\Baby Choice\obj\Debug\Baby Choice.exe
+F:\Database Project\Baby Choice\Baby Choice\obj\Debug\Baby Choice.pdb
+F:\Database Project\Baby Choice\Baby Choice\obj\Debug\Baby_Choice.Purchase_Form.resources
+F:\Database Project\Baby Choice\Baby Choice\obj\Debug\Baby_Choice.MainForm.resources
+F:\Database Project\Baby Choice\Baby Choice\obj\Debug\Baby_Choice.Register.resources
+F:\Database Project\Baby Choice\Baby Choice\obj\Debug\Baby_Choice.StockStatus.resources
+F:\Database Project\Baby Choice\Baby Choice\obj\Debug\Baby_Choice.NewEntry.resources
+F:\Database Project\Baby Choice\Baby Choice\obj\Debug\Baby_Choice.Search_Result.resources
+F:\Database Project\Baby Choice\Baby Choice\obj\Debug\Baby_Choice.UpdateStock.resources
+F:\Database Project\Baby Choice\Baby Choice\obj\Debug\Baby_Choice.Transactions.resources
